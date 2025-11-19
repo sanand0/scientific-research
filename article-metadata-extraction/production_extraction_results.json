@@ -1,0 +1,9 @@
+{
+  "metadata": {
+    "error": "upstream connect error or disconnect/reset before headers. reset reason: remote connection failure, transport failure reason: TLS_error:|268435581:SSL routines:OPENSSL_internal:CERTIFICATE_VERIFY_FAILED:TLS_error_end"
+  },
+  "references": [],
+  "extraction_method": "Hybrid (PyMuPDF + GPT-4o)",
+  "total_pages": 100,
+  "ocr_used": false
+}
