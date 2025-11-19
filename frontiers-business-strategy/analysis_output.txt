@@ -1,0 +1,73 @@
+================================================================================
+FRONTIERS PUBLISHING PATTERN ANALYSIS
+================================================================================
+
+
+CURRENT FRONTIERS FOCUS
+--------------------------------------------------------------------------------
+Neurology                               :    4,827 articles
+Neuroscience                            :    3,554 articles
+Aging Neuroscience                      :    1,539 articles
+Psychology                              :    8,831 articles
+Immunology                              :   12,416 articles
+Oncology                                :    8,963 articles
+Cardiovascular                          :    4,103 articles
+Public Health                           :    9,116 articles
+
+EMERGING AREAS IN FRONTIERS (2023-2024)
+--------------------------------------------------------------------------------
+AI in Frontiers                         :      600 articles
+Climate/Sustainability                  :        6 articles
+Robotics/AI                             :      531 articles
+Bioengineering                          :    3,089 articles
+Microbiology                            :    7,645 articles
+
+ALL FRONTIERS JOURNALS
+--------------------------------------------------------------------------------
+Total Frontiers (2023-2024)             :        1 articles
+Total Frontiers (2022)                  :        1 articles
+Total Frontiers (2021)                  :        1 articles
+Total Frontiers (2020)                  :        0 articles
+Total Frontiers (2019)                  :        1 articles
+
+COMPARISON: ALL PUBMED (2023-2024)
+--------------------------------------------------------------------------------
+AI/ML (all PubMed)                      :  110,438 articles
+Climate (all PubMed)                    :   43,442 articles
+Synthetic Bio (all PubMed)              :    4,829 articles
+Neuroscience (all PubMed)               :   57,545 articles
+Immunology (all PubMed)                 :  162,999 articles
+
+GROWTH POTENTIAL TOPICS (ALL PUBMED)
+--------------------------------------------------------------------------------
+Quantum Computing                       :      810 articles
+CRISPR/Gene Editing                     :   16,629 articles
+Longevity/Aging                         :    7,608 articles
+Precision Medicine                      :    8,662 articles
+One Health                              :    3,682 articles
+
+================================================================================
+MARKET SHARE ANALYSIS (2023-2024)
+================================================================================
+
+Neuroscience: 14.56% market share (8,381 / 57,545)
+Immunology: 7.62% market share (12,416 / 162,999)
+AI/ML: 0.54% market share (600 / 110,438)
+Climate/Sustainability: 0.01% market share (6 / 43,442)
+
+================================================================================
+FRONTIERS VOLUME TRENDS
+================================================================================
+
+2019: 1 articles
+2020: 0 articles (-100.0%)
+2021: 1 articles
+2022: 1 articles (+0.0%)
+2023-2024: 1 articles (avg 0/year)
+
+Year-over-year trend (2022 → 2023-2024 avg): -50.0%
+
+================================================================================
+Analysis complete. Results saved to publication_analysis.json
+Timestamp: 2025-11-19 05:54:41
+================================================================================
