@@ -1,0 +1,40 @@
+{
+  "CURRENT FRONTIERS FOCUS": {
+    "Neurology": 4827,
+    "Neuroscience": 3554,
+    "Aging Neuroscience": 1539,
+    "Psychology": 8831,
+    "Immunology": 12416,
+    "Oncology": 8963,
+    "Cardiovascular": 4103,
+    "Public Health": 9116
+  },
+  "EMERGING AREAS IN FRONTIERS (2023-2024)": {
+    "AI in Frontiers": 600,
+    "Climate/Sustainability": 6,
+    "Robotics/AI": 531,
+    "Bioengineering": 3089,
+    "Microbiology": 7645
+  },
+  "ALL FRONTIERS JOURNALS": {
+    "Total Frontiers (2023-2024)": 1,
+    "Total Frontiers (2022)": 1,
+    "Total Frontiers (2021)": 1,
+    "Total Frontiers (2020)": 0,
+    "Total Frontiers (2019)": 1
+  },
+  "COMPARISON: ALL PUBMED (2023-2024)": {
+    "AI/ML (all PubMed)": 110438,
+    "Climate (all PubMed)": 43442,
+    "Synthetic Bio (all PubMed)": 4829,
+    "Neuroscience (all PubMed)": 57545,
+    "Immunology (all PubMed)": 162999
+  },
+  "GROWTH POTENTIAL TOPICS (ALL PUBMED)": {
+    "Quantum Computing": 810,
+    "CRISPR/Gene Editing": 16629,
+    "Longevity/Aging": 7608,
+    "Precision Medicine": 8662,
+    "One Health": 3682
+  }
+}
