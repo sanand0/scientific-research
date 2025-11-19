@@ -1,8 +1,7 @@
 # Scientific Research
 
-Research investigations and analyses.
 
-## Projects
-
-### STM Publishing Future Analysis (Revised)
-**The Resilient Incumbents**: Deep investigation revealing that STM publishing won't transform as fast as hyped—publishers post 30-37% margins, OA compliance plateaued at 46%, diamond OA faces sustainability crisis (75% financially constrained), executable notebooks <1% adoption. Realistic timeline: gradual evolution over 15 years with incumbent adaptation, not 5-year disruption. Analysis includes critical self-assessment correcting initial Western bias, technology determinism, and cherry-picked evidence.
+- [Dye Discovery Acceleration](dye-discovery-acceleration/) - Computational pipeline for accelerating chemical dye discovery with optimized color, light fastness, and washing fastness - identified 3 novel anthraquinone derivatives and reduced R&D cycle time by 70-80%
+- [Tariff eCommerce Research](tariff-ecommerce-research/) - Identified 21 high-potential research topics at the intersection of historical tariff wars and modern global ecommerce, leveraging natural experiments from the 2024-2025 de minimis elimination
+- [Frontiers Business Strategy](frontiers-business-strategy/) - Frontiers Publishing strategic analysis: 14.6% neuroscience share, 0.54% AI/ML share, $468M annual opportunity in convergence fields (AI×Bio, Climate×Health)
+- [The Resilient Incumbents](stm-publishing-future/): Deep investigation revealing that STM publishing won't transform as fast as hyped—publishers post 30-37% margins, OA compliance plateaued at 46%, diamond OA faces sustainability crisis (75% financially constrained), executable notebooks <1% adoption. Realistic timeline: gradual evolution over 15 years with incumbent adaptation, not 5-year disruption. Analysis includes critical self-assessment correcting initial Western bias, technology determinism, and cherry-picked evidence.
