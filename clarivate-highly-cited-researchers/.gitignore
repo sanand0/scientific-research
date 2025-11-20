@@ -1,0 +1,12 @@
+# Temporary debug files from scraping
+ajax_response.html
+ajax_response.json
+page_sample.html
+scrape_log.txt
+
+# CSV output (JSON already included)
+researchers_data.csv
+
+# Any future temp files
+*.tmp
+*.log
