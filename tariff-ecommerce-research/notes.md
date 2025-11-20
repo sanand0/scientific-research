@@ -26,7 +26,7 @@ Starting comprehensive research on:
 - Quantitative estimates: reduced real output by up to 2%, lowered U.S. TFP by 0.5%
 - Led to fundamental policy shift toward trade liberalization (1934 Reciprocal Trade Agreements Act)
 
-#### 2. US-China Trade War (2018-2020)
+#### 2. US-China Trade War (2018-2020): The B2B-Dominated Era
 - Launched 2018, tariffs on $350B+ Chinese imports by late 2019
 - China retaliated on $100B of US exports
 - China's share of U.S. imports: 22% (2017) → 14% (2023)
@@ -37,6 +37,15 @@ Starting comprehensive research on:
 - Prices of US intermediate goods rose 10-30%
 - Costs passed to consumers; spillover effects through production networks
 - Key difference from 1930s: resulted in supply chain diversification, not trade collapse
+
+**Why "B2B-dominated" not "pre-ecommerce":**
+- Ecommerce well-established (Amazon, Alibaba, eBay mature platforms by 2018)
+- BUT: De minimis exemption ($800) still in place - tariffs didn't affect small parcels
+- Cross-border B2C ecommerce much smaller than 2020-2025 (pre-COVID acceleration)
+- Temu didn't exist (launched 2022); Shein smaller footprint than today
+- Tariff targets: primarily industrial goods, intermediate inputs, not consumer parcels
+- Platform dynamics: less salient in trade war discourse than manufacturing/supply chains
+- Consumer awareness: lower than current era (77% today vs. primarily B2B focus then)
 
 ### Evolution of Global Ecommerce (2020-2025)
 
@@ -400,9 +409,125 @@ Starting comprehensive research on:
 - **Data:** Synthetic data validation; partnerships with platforms for encrypted computation
 - **Impact:** Unlock massive datasets for research while protecting privacy
 
-## Research Summary
+### Category 8: Consumer Nationalism as Alternative to Tariffs
 
-Total research topics identified: **21 topics across 7 categories**
+**8.1 Comparative Effectiveness: Economic Nationalism vs. Tariffs for Domestic Manufacturing**
+- **Question:** Can consumer nationalism (voluntary "buy domestic" behavior) achieve manufacturing goals without the welfare costs of tariffs?
+- **Why now:** Rising economic nationalism globally; social media amplifies nationalist consumption; tariffs impose significant deadweight loss
+- **Theoretical framework:** Compare voluntary (identity-driven) vs. coercive (price-based) mechanisms
+- **Methods:**
+  - Natural experiments: countries/regions with strong nationalist campaigns (India's "Atmanirbhar Bharat", "Buy American")
+  - RCTs: exposure to nationalist messaging vs. price interventions
+  - Structural modeling: identity utility (Akerlof & Kranton framework) + standard trade model
+- **Data:** Purchase data by country-of-origin; social media sentiment; government campaign expenditures; manufacturing output
+- **Impact:** Could inform lower-cost policy alternatives to tariffs
+
+**8.2 Country-of-Origin Labeling Effects in Digital Marketplaces**
+- **Question:** How do COO labels affect purchase decisions on ecommerce platforms, and can this substitute for tariffs?
+- **Why now:** Platforms increasingly pressured to display seller location; 77% consumer tariff awareness suggests salience
+- **Mechanisms to study:**
+  - Information vs. identity effects (do consumers avoid Chinese goods due to quality concerns or nationalism?)
+  - Label prominence and framing (flag icons vs. text, "Made in USA" vs. "Imported from China")
+  - Interaction with price: willingness to pay premium for domestic goods
+- **Methods:** Large-scale A/B testing on cooperating platforms; conjoint analysis; field experiments
+- **Data:** Platform purchase data with COO variation; eye-tracking for label attention; survey data on motivations
+- **Impact:** Low-cost policy tool; can be implemented by platforms without government intervention
+
+**8.3 Social Media Campaigns and Nationalistic Consumption Waves**
+- **Question:** How effective are social media-driven "buy local" movements, and what is their duration and spillover?
+- **Why now:** Viral campaigns (#BoycottChina, #VocalForLocal in India); influencer-driven consumption; real-time measurement possible
+- **Examples to study:**
+  - India 2020: Anti-China sentiment post-border conflict → app bans, consumer boycotts
+  - U.S.: "Buy American" movements during trade tensions
+  - Australia-China: Barley/wine boycotts and counter-movements
+- **Methods:**
+  - Event studies around viral campaigns
+  - Difference-in-differences: regions/demographics with high vs. low social media exposure
+  - Time series analysis: durability of effects (do campaigns create lasting shifts or temporary spikes?)
+- **Data:** Social media analytics; product-level sales data; customs data; Google Trends
+- **Impact:** Understand organic vs. government-orchestrated nationalism; predict sustainability
+
+**8.4 Government Procurement Preferences vs. Broad Tariffs**
+- **Question:** Can targeted government procurement ("Buy American Act") achieve manufacturing goals more efficiently than economy-wide tariffs?
+- **Why now:** Buy American provisions in infrastructure bills; comparison to broad tariff regime
+- **Trade-offs:**
+  - Narrow targeting (only government purchases) vs. broad impact (all consumption)
+  - Transparency (explicit policy) vs. hidden tax (tariffs embedded in prices)
+  - WTO compatibility (GPA exceptions vs. MFN violations)
+- **Methods:**
+  - Compare sectoral outcomes: industries with high government procurement vs. consumer goods
+  - Computable general equilibrium: simulate procurement rules vs. equivalent tariffs
+  - Case studies: defense, infrastructure, pharmaceuticals (high government share)
+- **Data:** Government procurement contracts; sectoral employment/output; input-output tables
+- **Impact:** Guide policy design toward targeted interventions
+
+**8.5 Identity Economics and Trade Preferences: Behavioral Foundations**
+- **Question:** What are the psychological and cultural foundations of nationalist consumption, and how do they interact with price sensitivity?
+- **Why now:** Identity economics increasingly important; globalization backlash; need micro-foundations for macro models
+- **Key mechanisms:**
+  - In-group bias and out-group animus
+  - National identity salience (when does it override price?)
+  - Cultural frames and historical grievances
+  - Generational differences (digital natives vs. older cohorts)
+- **Methods:**
+  - Lab experiments with priming, identity manipulation
+  - Field experiments in retail settings
+  - Surveys with identity measures + revealed preferences
+  - Neuroeconomics: fMRI studies of nationalist consumption decisions
+- **Data:** Experimental data; World Values Survey; purchase diaries; implicit association tests
+- **Impact:** Build realistic behavioral models of trade policy responses
+
+**8.6 Long-Run Sustainability: Voluntary Nationalism vs. Coercive Tariffs**
+- **Question:** Do voluntary nationalist consumption patterns persist long-term, or do they require constant reinforcement unlike tariffs?
+- **Why now:** Need to assess whether nationalism can be sustained policy tool
+- **Hypotheses:**
+  - Tariffs: durable (unless repealed) but economically costly
+  - Nationalism: lower cost but potentially fragile, subject to "virtue signaling" decay
+  - Interaction effects: can nationalism + modest tariffs outperform either alone?
+- **Methods:**
+  - Long-run panel data: countries with nationalist movements over decades
+  - Behavioral models with habit formation and identity evolution
+  - Historical case studies: "Buy British" in 1930s, "Buy American" cycles
+- **Data:** Long-run trade flows by country-of-origin; historical newspapers/propaganda; consumer surveys over time
+- **Impact:** Assess realistic role for nationalism in trade policy toolkit
+
+**8.7 Platform Algorithms and Nationalistic Consumption Nudges**
+- **Question:** Can recommendation algorithms be designed to promote domestic purchases without explicit mandates?
+- **Why now:** Algorithmic curation shapes 70%+ of ecommerce purchases; China's platforms already boost domestic sellers
+- **Mechanisms:**
+  - Ranking boosts for domestic products (subtle vs. explicit)
+  - "Similar domestic alternatives" suggestions when viewing imports
+  - Personalization: show domestic goods to nationalist consumers, imports to price-sensitive
+- **Ethical/legal questions:** Is this manipulation? Discriminatory? WTO-compatible?
+- **Methods:**
+  - Simulation: estimate demand shifts from various algorithmic interventions
+  - A/B testing (if platform cooperation): measure effectiveness and consumer welfare
+  - Comparative analysis: Chinese platforms (with nationalist algorithms) vs. Western platforms
+- **Data:** Platform recommendation logs; click-through and conversion rates; counterfactual ranking experiments
+- **Impact:** Identify whether "soft" digital nationalism can substitute for hard trade barriers
+
+**8.8 Cross-Country Comparison: Nationalism Campaigns and Manufacturing Outcomes**
+- **Question:** Which countries' nationalist consumption campaigns have succeeded/failed at boosting domestic manufacturing?
+- **Why now:** Multiple natural experiments globally; sufficient time to measure outcomes
+- **Cases:**
+  - **India (2014-present):** "Make in India", "Atmanirbhar Bharat" - extensive government campaign
+  - **China (ongoing):** "Buy Chinese" implicit in platform design and social campaigns
+  - **USA (various periods):** "Buy American" cycles, recent MAGA-linked consumption
+  - **South Korea (1990s-2000s):** Successful nationalist consumption supporting chaebols
+  - **Japan (1980s):** Quality-based nationalism ("Japanese products superior")
+- **Methods:**
+  - Synthetic control for countries with major campaigns
+  - Cross-country regression: campaign intensity vs. manufacturing outcomes
+  - Qualitative comparative analysis (QCA): identify configurations that succeed
+- **Data:** Manufacturing employment/output; consumer sentiment surveys; government campaign budgets; media content analysis
+- **Impact:** Identify best practices and necessary conditions for successful economic nationalism
+
+## Research Summary - UPDATED
+
+Total research topics identified: **29 topics across 8 categories** (expanded from 21)
+
+**New Category 8: Consumer Nationalism as Alternative to Tariffs (8 topics)**
+This category addresses voluntary, identity-based mechanisms for boosting domestic manufacturing as alternatives or complements to coercive tariff policies. It recognizes that ecommerce platforms enable both new forms of trade barriers (tariffs on micro-transactions) AND new forms of voluntary nationalism (COO labels, algorithmic nudges, viral campaigns).
 
 **High-priority topics** (based on data availability, policy relevance, and theoretical novelty):
 1. Tariff Incidence in Multi-Sided Platforms (1.1) - natural experiment from de minimis elimination
@@ -410,6 +535,8 @@ Total research topics identified: **21 topics across 7 categories**
 3. Multi-Domain Retaliation in Modern Trade Wars (5.1) - theoretically novel, observable in real-time
 4. Real-Time Tariff Impact Monitoring (7.1) - methodological innovation with immediate applications
 5. AI-Enabled Tariff-Responsive Supply Chain Optimization (2.1) - causal identification possible
+6. **Comparative Effectiveness: Economic Nationalism vs. Tariffs (8.1)** - addresses fundamental policy question
+7. **Cross-Country Comparison: Nationalism Campaigns and Outcomes (8.8)** - multiple natural experiments available
 
 **Key insight:** The convergence of tariffs and ecommerce creates fundamentally new research questions that couldn't exist in the pre-digital era. Traditional trade economics must be reimagined for:
 - Micro-transaction scale (billions of parcels)
