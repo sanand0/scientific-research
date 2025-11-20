@@ -41,6 +41,9 @@ Add the United Kingdom (10%) and Switzerland (5%), and you have three countries 
 
 **"Wait, really?"** moment #1: The entire continent of Africa is virtually absent from this list, despite being home to 1.3 billion people.
 
+![Top 20 Countries by Highly Cited Researchers](viz_top_countries.png)
+*Figure 1: Geographic concentration of highly cited researchers - the United States dominates with 50%, followed by the UK and Switzerland*
+
 This isn't just about national pride or Olympic medal counts for science. Geographic concentration has real consequences:
 
 - **Funding flows**: Research grants tend to go to established centers of excellence
@@ -73,6 +76,9 @@ All of these factors reinforce each other. Success breeds success. Prestige attr
 
 The data shows one more surprising detail: Among institutions with highly cited researchers, the majority (85%) have only ONE such researcher. This suggests two tiers: a small elite producing multiple star researchers, and a long tail of institutions that occasionally produce outliers but can't sustain excellence at scale.
 
+![Top 25 Institutions by Highly Cited Researchers](viz_top_institutions.png)
+*Figure 2: Institutional power law - MIT leads, but 85% of institutions have only one highly cited researcher*
+
 ## The Death of Disciplines
 
 Perhaps the most surprising finding isn't about geography or institutions—it's about **what these researchers actually do**.
@@ -97,6 +103,9 @@ This has profound implications for how universities organize themselves. If the 
 
 The data suggests a fundamental misalignment between how we organize academic institutions and where breakthrough research actually happens.
 
+![Research Field Distribution](viz_research_fields.png)
+*Figure 3: Cross-Field research dominates - nearly half of highly cited researchers work across traditional disciplinary boundaries*
+
 ## The Country-Specific Specializations
 
 Not all countries approach science the same way, and the data reveals distinct national strategies:
@@ -110,6 +119,9 @@ Not all countries approach science the same way, and the data reveals distinct n
 **Belgium**: Perfect three-way split between Social Sciences, Biology, and Cross-Field—a balanced approach for a small country.
 
 These patterns aren't accidents. They reflect national priorities, funding mechanisms, industrial partnerships, and historical strengths. The UK's pharmaceutical focus, for instance, traces back to companies like GlaxoSmithKline and AstraZeneca. China's cross-field emphasis aligns with its focus on technological applicationand innovation.
+
+![Country-Field Specialization Heatmap](viz_country_field_heatmap.png)
+*Figure 4: National research specialization patterns - countries show distinct strategic priorities across research fields*
 
 ## What This Means: The So What?
 
@@ -158,17 +170,6 @@ The concentration we see today will likely intensify unless actively countered. 
 
 **Code Availability:**
 All analysis code is available in this repository.
-
----
-
-## Visualizations
-
-*[Visualizations are generated in PNG format - see viz_*.png files]*
-
-1. **Top 20 Countries by Highly Cited Researchers**: Clear US dominance
-2. **Top 25 Institutions**: Power law distribution
-3. **Research Field Distribution**: Cross-Field category dominance
-4. **Country-Field Heatmap**: National specialization patterns
 
 ---
 
