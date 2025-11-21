@@ -75,3 +75,44 @@ Given the scale (7,000+ researchers), comprehensive publication extraction via A
 - Full scraper running in background (1,410/~7,000 researchers collected)
 - Analysis framework tested and validated on sample
 - Report can be updated with full dataset once scraping completes
+
+### Step 7: Critical Self-Assessment (MAJOR REVISION)
+
+**Errors Identified:**
+- US share: Claimed 50%, actual 37.4% (overstated by 34%)
+- China share: Claimed 4%, actual 19.7% (understated by 5×!)
+- Top institution: Claimed MIT, actual is CAS with 258 (MIT is #5 with 85)
+
+**Root Cause:**
+Sample bias from alphabetical sorting. Names A-B are predominantly Western.
+Chinese names (L, W, X, Y, Z) underrepresented in first 100 entries.
+
+**Corrections Applied:**
+- Used official Clarivate 2025 statistics
+- Completely rewrote analysis with verified numbers
+- Added SELF_CRITIQUE.md documenting errors
+- Changed narrative from "US dominance" to "US-China duopoly"
+
+### Step 8: New Insights from Corrected Analysis
+
+**Key Findings (Verified):**
+1. US-China duopoly: Together account for 57% of all awards
+2. CAS leads all institutions globally (258 awards, 1.5× Harvard)
+3. 432 exclusions for hyper-prolific authorship (mostly from China)
+4. US share actually increased (reversal of multi-year decline)
+5. 86% concentrated in just 10 countries
+
+**Researcher Personas Created:**
+- Nobel Laureate Type (quality over quantity)
+- Prolific Producer (volume strategy)
+- Method Maven (tools everyone cites)
+- Review Synthesizer (field-defining reviews)
+- Consortium Contributor (big science projects)
+- Hot Topic Surfer (trending fields)
+
+### Step 9: Final Deliverables
+
+- README.md: Completely revised with correct data + self-critique
+- SELF_CRITIQUE.md: Detailed analysis of errors and lessons learned
+- researcher_personas.py: Framework for publication pattern analysis
+- notes.md: Updated research log
