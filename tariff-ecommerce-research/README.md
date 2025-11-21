@@ -2,7 +2,9 @@
 
 ## Executive Summary
 
-This research examines the intersection of historical tariff war regimes with the modern evolution of global ecommerce and digital interconnectivity. The analysis identifies **21 high-potential research topics** across 7 categories, leveraging natural experiments created by recent policy changes (especially the 2024-2025 elimination of the U.S. de minimis exemption) to understand fundamentally new dynamics in international trade.
+This research examines the intersection of historical tariff war regimes with the modern evolution of global ecommerce and digital interconnectivity. The analysis identifies **29 high-potential research topics** across 8 categories, leveraging natural experiments created by recent policy changes (especially the 2024-2025 elimination of the U.S. de minimis exemption) to understand fundamentally new dynamics in international trade.
+
+**Update (Nov 2025):** Expanded to include consumer nationalism as alternative/complement to tariffs, recognizing that voluntary identity-based mechanisms may achieve manufacturing goals with lower welfare costs than coercive price interventions.
 
 **Key Finding:** The convergence of tariffs and ecommerce creates research questions that couldn't exist in the pre-digital era, requiring traditional trade economics to be reimagined for micro-transaction scale, platform intermediation, real-time price adjustment, multi-domain policy instruments, and direct consumer political engagement.
 
@@ -19,9 +21,16 @@ The canonical trade war example:
 
 **Trade characteristics:** Bulk shipments, multi-month timelines, opaque supply chains, limited consumer awareness.
 
-### 2. US-China Trade War (2018-2020)
+### 2. US-China Trade War (2018-2020): The B2B-Dominated Era
 
-The pre-ecommerce modern tariff regime:
+**Important clarification:** Not "pre-ecommerce" (Amazon, Alibaba, eBay were mature by 2018), but B2B-dominated because:
+- De minimis exemption ($800) still in place - tariffs didn't affect small consumer parcels
+- Cross-border B2C ecommerce much smaller than 2020-2025 (pre-COVID acceleration)
+- Temu didn't exist (launched 2022); Shein had smaller footprint
+- Tariff targets: primarily industrial goods, intermediate inputs, not consumer parcels
+- Consumer awareness lower than current 77% (trade war discourse focused on manufacturing/jobs)
+
+**Key metrics:**
 - **Magnitude:** U.S. tariffs on $350B+ Chinese imports; China retaliated on $100B U.S. exports
 - **Impact:** China's share of U.S. imports: 22% (2017) → 14% (2023)
 - **Supply chain response:** 244 relocation decisions by 141 manufacturers (2018-2023)
@@ -30,7 +39,7 @@ The pre-ecommerce modern tariff regime:
 - **Consumer impact:** Intermediate goods prices rose 10-30%; costs passed to consumers
 - **Key difference from 1930s:** Supply chain diversification rather than trade collapse
 
-**Trade characteristics:** Still primarily B2B industrial trade, slow supply chain adjustment (4-year elasticity 4x higher than 1-year).
+**Trade characteristics:** Primarily B2B industrial trade, slow supply chain adjustment (4-year elasticity 4x higher than 1-year).
 
 ### 3. The 2024-2025 Digital Tariff Regime
 
@@ -112,7 +121,7 @@ The ecommerce-dominated era:
 - **Now:** Weather-induced disruptions increasing, carbon border adjustments, reshoring environmental costs
 - **Implication:** Tariff decisions must balance economic, geopolitical, AND environmental factors
 
-## 21 Research Topics at the Tariffs-Ecommerce Nexus
+## 29 Research Topics at the Tariffs-Ecommerce Nexus (Expanded from 21)
 
 ### Category 1: Platform Economics and Market Structure
 
@@ -253,9 +262,62 @@ The ecommerce-dominated era:
 - Methods: Develop privacy-preserving computation protocols
 - Impact: Unlock massive datasets while protecting privacy
 
-⭐ = High-priority topics based on data availability, policy relevance, and theoretical novelty
+### Category 8: Consumer Nationalism as Alternative to Tariffs ✨ NEW
 
-## Top 5 Priority Research Topics
+**8.1 Comparative Effectiveness: Economic Nationalism vs. Tariffs for Domestic Manufacturing** ⭐
+- Can consumer nationalism (voluntary "buy domestic" behavior) achieve manufacturing goals without the welfare costs of tariffs?
+- Why now: Rising economic nationalism globally; social media amplifies nationalist consumption; tariffs impose significant deadweight loss
+- Theoretical framework: Compare voluntary (identity-driven) vs. coercive (price-based) mechanisms using Akerlof & Kranton identity economics
+- Methods: Natural experiments (India's "Atmanirbhar Bharat", "Buy American"), RCTs, structural modeling
+- Impact: Could inform lower-cost policy alternatives to tariffs
+
+**8.2 Country-of-Origin Labeling Effects in Digital Marketplaces**
+- How do COO labels affect purchase decisions on ecommerce platforms, and can this substitute for tariffs?
+- Mechanisms: Information vs. identity effects; label prominence and framing; interaction with price
+- Methods: Large-scale A/B testing on cooperating platforms; conjoint analysis; field experiments
+- Impact: Low-cost policy tool; can be implemented by platforms without government intervention
+
+**8.3 Social Media Campaigns and Nationalistic Consumption Waves**
+- How effective are social media-driven "buy local" movements, and what is their duration?
+- Examples: India 2020 anti-China sentiment, U.S. "Buy American", Australia-China boycotts
+- Methods: Event studies around viral campaigns; difference-in-differences by social media exposure; durability analysis
+- Impact: Understand organic vs. government-orchestrated nationalism; predict sustainability
+
+**8.4 Government Procurement Preferences vs. Broad Tariffs**
+- Can targeted government procurement ("Buy American Act") achieve manufacturing goals more efficiently than economy-wide tariffs?
+- Trade-offs: Narrow targeting vs. broad impact; transparency vs. hidden tax; WTO compatibility
+- Methods: Sectoral outcomes comparison; computable general equilibrium simulations; case studies (defense, infrastructure, pharma)
+- Impact: Guide policy design toward targeted interventions
+
+**8.5 Identity Economics and Trade Preferences: Behavioral Foundations**
+- What are the psychological and cultural foundations of nationalist consumption, and how do they interact with price sensitivity?
+- Mechanisms: In-group bias; national identity salience; cultural frames; generational differences
+- Methods: Lab experiments with identity manipulation; field experiments; neuroeconomics (fMRI studies)
+- Impact: Build realistic behavioral models of trade policy responses
+
+**8.6 Long-Run Sustainability: Voluntary Nationalism vs. Coercive Tariffs**
+- Do voluntary nationalist consumption patterns persist long-term, or require constant reinforcement unlike tariffs?
+- Hypotheses: Tariffs durable but costly; nationalism lower cost but potentially fragile; interaction effects
+- Methods: Long-run panel data; behavioral models with habit formation; historical case studies ("Buy British" 1930s)
+- Impact: Assess realistic role for nationalism in trade policy toolkit
+
+**8.7 Platform Algorithms and Nationalistic Consumption Nudges**
+- Can recommendation algorithms be designed to promote domestic purchases without explicit mandates?
+- Mechanisms: Ranking boosts for domestic products; "similar domestic alternatives" suggestions; personalized targeting
+- Ethical/legal questions: Is this manipulation? Discriminatory? WTO-compatible?
+- Methods: Simulation of demand shifts; A/B testing; comparative analysis (Chinese vs. Western platforms)
+- Impact: Identify whether "soft" digital nationalism can substitute for hard trade barriers
+
+**8.8 Cross-Country Comparison: Nationalism Campaigns and Manufacturing Outcomes** ⭐
+- Which countries' nationalist consumption campaigns have succeeded/failed at boosting domestic manufacturing?
+- Cases: India ("Make in India"), China (implicit platform design), USA ("Buy American" cycles), South Korea (1990s chaebols), Japan (1980s quality nationalism)
+- Methods: Synthetic control for major campaigns; cross-country regression; qualitative comparative analysis
+- Impact: Identify best practices and necessary conditions for successful economic nationalism
+
+⭐ = High-priority topics based on data availability, policy relevance, and theoretical novelty
+✨ = New category addressing alternative mechanisms to tariffs
+
+## Top 7 Priority Research Topics (Expanded from 5)
 
 ### 1. Tariff Incidence in Multi-Sided Platforms (1.1)
 **Why critical:** The de minimis elimination creates a rare natural experiment. With 50% of Amazon's third-party sales from Chinese sellers and 1.36B annual de minimis shipments suddenly requiring tariff payments, we can observe in real-time how platforms, sellers, and consumers negotiate tariff burdens. This has immediate antitrust and regulatory implications.
@@ -282,6 +344,20 @@ The ecommerce-dominated era:
 
 **Commercial impact:** Quantifying ROI of digitalization investments worth billions.
 
+### 6. Comparative Effectiveness: Economic Nationalism vs. Tariffs (8.1) ✨
+**Why critical:** This addresses a fundamental policy question: can voluntary identity-based mechanisms achieve manufacturing goals without the massive welfare costs of tariffs ($10.9B+ consumer costs from de minimis alone)? With rising economic nationalism globally and social media amplifying "buy local" movements, we can now compare voluntary vs. coercive mechanisms.
+
+**Theoretical novelty:** Integrates identity economics (Akerlof & Kranton) with standard trade theory; natural experiments available (India's Atmanirbhar Bharat, Buy American campaigns).
+
+**Policy impact:** Could fundamentally reshape trade policy toolkit toward lower-cost interventions.
+
+### 7. Cross-Country Comparison: Nationalism Campaigns and Manufacturing Outcomes (8.8) ✨
+**Why critical:** Multiple natural experiments occurring simultaneously across countries with different nationalist consumption campaigns. India (Make in India since 2014), China (platform-embedded nationalism), USA (Buy American cycles), South Korea (successful 1990s-2000s campaigns), Japan (1980s quality nationalism) provide variation in strategies and outcomes.
+
+**Research design strength:** Synthetic control methods can identify which campaign configurations succeed; sufficient time has passed to measure manufacturing outcomes.
+
+**Impact:** Evidence-based guidance on whether and how nationalist consumption can substitute for or complement tariffs.
+
 ## Conclusion: A New Research Frontier
 
 The 2024-2025 tariff regime represents a fundamental break from historical patterns. Unlike the 1930s (bulk trade, opaque chains, limited consumer awareness) or even 2018-2020 (primarily B2B, slow adjustment), the current era features:
@@ -299,7 +375,9 @@ The 2024-2025 tariff regime represents a fundamental break from historical patte
 
 **Policy impact potential is high.** With $10.9B+ in consumer costs, $71B in SME costs, and fundamental questions about digital trade governance unanswered, rigorous research can directly inform billion-dollar policy decisions.
 
-The convergence of tariffs and ecommerce isn't just adding digital dimensions to old trade questions—it's creating entirely new phenomena that require new theories, new methods, and new data infrastructure. This is a defining moment for international trade research.
+**Consumer nationalism as alternative mechanism (NEW).** The digital era enables both new forms of trade barriers (tariffs on micro-transactions) AND new forms of voluntary economic nationalism (COO labels, algorithmic nudges, viral social media campaigns). Research comparing voluntary identity-based mechanisms vs. coercive price interventions could identify lower-cost policy alternatives with potentially higher long-term sustainability.
+
+The convergence of tariffs and ecommerce isn't just adding digital dimensions to old trade questions—it's creating entirely new phenomena that require new theories, new methods, and new data infrastructure. The addition of consumer nationalism research recognizes that ecommerce platforms enable novel policy instruments beyond traditional tariffs. This is a defining moment for international trade research.
 
 ## Appendix: Data Sources and Access
 
